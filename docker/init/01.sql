@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS `nht_transactional`;
+CREATE DATABASE IF NOT EXISTS `nht_warehouse`;
